@@ -1,8 +1,3 @@
-[![GitHub Repo stars](https://img.shields.io/github/stars/blockpipe/blockagi?style=social)](https://github.com/blockpipe/blockagi/stargazers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/BlockAGI?style=social)](https://twitter.com/BlockAGI)
-
-<img width="600" alt="banner" src="https://github.com/blockpipe/BlockAGI/assets/891585/4ea315e2-b496-4cfb-a81a-560a1763bf15">
-
 **BlockAGI** is an open-source research agent built with Python3, utilizing the capabilities of [LangChain](https://github.com/hwchase17/langchain) and [OpenAI](https://openai.com/). BlockAGI conducts iterative, domain-specific research, primarily focused on cryptocurrency but customizable to other domains. It outputs detailed narrative reports to showcase its findings. The progress of the AI agent's work is presented interactively through a user-friendly web interface, allowing users to watch the progress in real-time.
 
 > 🤖 Initially designed to answer crypto research topics (hence the "Block" in BlockAGI), it has proven useful for a wide variety of other use cases.
@@ -34,16 +29,6 @@
 
 - Backend: [Python](https://www.python.org/downloads/) and [LangChain](https://python.langchain.com/)
 - Frontend: [Next.js](https://nextjs.org/) and [Tailwind](https://tailwindcss.com/)
-
-## 🤝 Sponsors and Contributors
-
-We currently don't take any monetary donations! However, every issue filed and PR are extremely important to us. Here is the roster of contributors and supporters of the project.
-
-<a href="https://blockpipe.io"><img width="200" alt="blockpipe" src="https://github.com/blockpipe/BlockAGI/assets/891585/c595fd73-4a7e-4401-8312-1d7ea79b1bf4"></a>
-
-<br />
-
-<a href="https://github.com/smiled0g"><img src="https://avatars.githubusercontent.com/smiled0g?v=4" width="50px" alt="smiled0g" /></a>&nbsp;&nbsp;<a href="https://github.com/sorawit"><img src="https://avatars.githubusercontent.com/sorawit?v=4" width="50px" alt="sorawit" /></a>&nbsp;&nbsp;<a href="https://github.com/endolith"><img src="https://avatars.githubusercontent.com/endolith?v=4" width="50px" alt="endolith" /></a>&nbsp;&nbsp;
 
 ## 📚 Documentation
 
